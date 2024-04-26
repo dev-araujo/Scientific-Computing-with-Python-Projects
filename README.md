@@ -1,5 +1,7 @@
 # Scientific Computing with Python - Projects
 
+> Códigos feitos ao longo do bootcamp podem ser acessados [aqui](https://github.com/dev-araujo/Scientific-Computing-with-Python)
+
 Projetos finais do bootcamp **[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)**
 
 ## Soluções
